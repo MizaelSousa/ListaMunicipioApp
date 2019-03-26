@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7A7076B3-80B2-4273-BB18-AA884C431A75}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaMunicipioApp/App.xaml.cs">
+    <Files>
+      <File FileName="ListaMunicipioApp/App.xaml.cs" Line="23" Column="1" />
+      <File FileName="ListaMunicipioApp/MainPage.xaml" Line="25" Column="15" />
+      <File FileName="ListaMunicipioApp/MainPage.xaml.cs" Line="59" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListaMunicipioApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ListaMunicipioApp.Android PreferredExecutionTarget="Android.0045978518" />
+</Properties>

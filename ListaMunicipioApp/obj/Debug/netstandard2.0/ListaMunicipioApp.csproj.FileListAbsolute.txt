@@ -1,0 +1,15 @@
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/bin/Debug/netstandard2.0/ListaMunicipioApp.deps.json
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/bin/Debug/netstandard2.0/ListaMunicipioApp.dll
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/bin/Debug/netstandard2.0/ListaMunicipioApp.pdb
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/ListaMunicipioApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/ListaMunicipioApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/ListaMunicipioApp.AssemblyInfo.cs
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/ListaMunicipioApp.dll
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/ListaMunicipioApp.pdb
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/ListaMunicipioApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/aluno/Projects/ListaMunicipioApp/ListaMunicipioApp/obj/Debug/netstandard2.0/ListaMunicipioApp.csproj.CopyComplete
